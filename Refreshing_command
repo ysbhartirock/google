@@ -1,0 +1,8 @@
+
+
+1 .git remote add < central repository url >
+2 git clone < centralized repository url >
+3 git remote set-url origin < token url> + <repository url > ( to Autorised without username and password}
+4 . git remote show origin 
+5 git fetch master / git push origin master / git push origin master -f /
+
